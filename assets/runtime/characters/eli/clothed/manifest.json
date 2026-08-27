@@ -1,0 +1,211 @@
+{
+  "character": "ELI",
+  "bodyVariant": "ELI_CLOTHED",
+  "basePath": "assets/runtime/characters/eli/clothed/",
+  "clips": {
+    "idle": {
+      "frames": [
+        "idle/0001.png",
+        "idle/0002.png",
+        "idle/0003.png",
+        "idle/0004.png",
+        "idle/0005.png",
+        "idle/0006.png",
+        "idle/0007.png",
+        "idle/0008.png"
+      ]
+    },
+    "walk_forward": {
+      "frames": [
+        "walk_forward/0001.png",
+        "walk_forward/0002.png",
+        "walk_forward/0003.png",
+        "walk_forward/0004.png",
+        "walk_forward/0005.png",
+        "walk_forward/0006.png",
+        "walk_forward/0007.png",
+        "walk_forward/0008.png"
+      ]
+    },
+    "walk_backward": {
+      "frames": [
+        "walk_backward/0001.png",
+        "walk_backward/0002.png",
+        "walk_backward/0003.png",
+        "walk_backward/0004.png",
+        "walk_backward/0005.png",
+        "walk_backward/0006.png",
+        "walk_backward/0007.png",
+        "walk_backward/0008.png"
+      ]
+    },
+    "walk_depth_up": {
+      "frames": [
+        "walk_depth_up/0001.png",
+        "walk_depth_up/0002.png",
+        "walk_depth_up/0003.png",
+        "walk_depth_up/0004.png",
+        "walk_depth_up/0005.png",
+        "walk_depth_up/0006.png",
+        "walk_depth_up/0007.png",
+        "walk_depth_up/0008.png"
+      ]
+    },
+    "walk_depth_down": {
+      "frames": [
+        "walk_depth_down/0001.png",
+        "walk_depth_down/0002.png",
+        "walk_depth_down/0003.png",
+        "walk_depth_down/0004.png",
+        "walk_depth_down/0005.png",
+        "walk_depth_down/0006.png",
+        "walk_depth_down/0007.png",
+        "walk_depth_down/0008.png"
+      ]
+    },
+    "run_forward": {
+      "frames": [
+        "run_forward/0001.png",
+        "run_forward/0002.png",
+        "run_forward/0003.png",
+        "run_forward/0004.png",
+        "run_forward/0005.png",
+        "run_forward/0006.png",
+        "run_forward/0007.png",
+        "run_forward/0008.png"
+      ]
+    },
+    "run_depth_up": {
+      "frames": [
+        "run_depth_up/0001.png",
+        "run_depth_up/0002.png",
+        "run_depth_up/0003.png",
+        "run_depth_up/0004.png",
+        "run_depth_up/0005.png",
+        "run_depth_up/0006.png",
+        "run_depth_up/0007.png",
+        "run_depth_up/0008.png"
+      ]
+    },
+    "run_depth_down": {
+      "frames": [
+        "run_depth_down/0001.png",
+        "run_depth_down/0002.png",
+        "run_depth_down/0003.png",
+        "run_depth_down/0004.png",
+        "run_depth_down/0005.png",
+        "run_depth_down/0006.png",
+        "run_depth_down/0007.png",
+        "run_depth_down/0008.png"
+      ]
+    },
+    "light_attack": {
+      "frames": [
+        "light_attack/0001.png",
+        "light_attack/0002.png",
+        "light_attack/0003.png",
+        "light_attack/0004.png",
+        "light_attack/0005.png",
+        "light_attack/0006.png",
+        "light_attack/0007.png",
+        "light_attack/0008.png"
+      ]
+    },
+    "heavy_attack": {
+      "frames": [
+        "heavy_attack/0001.png",
+        "heavy_attack/0002.png",
+        "heavy_attack/0003.png",
+        "heavy_attack/0004.png",
+        "heavy_attack/0005.png",
+        "heavy_attack/0006.png",
+        "heavy_attack/0007.png",
+        "heavy_attack/0008.png"
+      ]
+    },
+    "special_01": {
+      "frames": [
+        "special_01/0001.png",
+        "special_01/0002.png",
+        "special_01/0003.png",
+        "special_01/0004.png",
+        "special_01/0005.png",
+        "special_01/0006.png",
+        "special_01/0007.png",
+        "special_01/0008.png"
+      ]
+    },
+    "special_01_aura": {
+      "frames": [
+        "special_01_aura/0001.png",
+        "special_01_aura/0002.png",
+        "special_01_aura/0003.png",
+        "special_01_aura/0004.png",
+        "special_01_aura/0005.png",
+        "special_01_aura/0006.png",
+        "special_01_aura/0007.png",
+        "special_01_aura/0008.png"
+      ]
+    },
+    "special_01_electric": {
+      "frames": [
+        "special_01_electric/0001.png",
+        "special_01_electric/0002.png",
+        "special_01_electric/0003.png",
+        "special_01_electric/0004.png",
+        "special_01_electric/0005.png",
+        "special_01_electric/0006.png",
+        "special_01_electric/0007.png",
+        "special_01_electric/0008.png"
+      ]
+    },
+    "block_high": {
+      "frames": [
+        "block_high/0001.png",
+        "block_high/0002.png",
+        "block_high/0003.png",
+        "block_high/0004.png",
+        "block_high/0005.png",
+        "block_high/0006.png",
+        "block_high/0007.png",
+        "block_high/0008.png"
+      ]
+    },
+    "hit_light": {
+      "frames": [
+        "hit_light/0001.png",
+        "hit_light/0002.png",
+        "hit_light/0003.png",
+        "hit_light/0004.png",
+        "hit_light/0005.png",
+        "hit_light/0006.png",
+        "hit_light/0007.png",
+        "hit_light/0008.png"
+      ]
+    },
+    "knockdown": {
+      "frames": [
+        "knockdown/0001.png",
+        "knockdown/0002.png",
+        "knockdown/0003.png",
+        "knockdown/0004.png",
+        "knockdown/0005.png",
+        "knockdown/0006.png",
+        "knockdown/0007.png",
+        "knockdown/0008.png"
+      ]
+    },
+    "get_up": {
+      "frames": [
+        "get_up/0001.png",
+        "get_up/0002.png",
+        "get_up/0003.png",
+        "get_up/0004.png",
+        "get_up/0005.png",
+        "get_up/0006.png",
+        "get_up/0007.png",
+        "get_up/0008.png"
+      ]
+    }
+  }
+}
